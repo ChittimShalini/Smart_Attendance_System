@@ -5,7 +5,7 @@ A automated attendance System
 The Smart Attendance System is an innovative solution designed to automate attendance marking from a group photo. Using advanced face recognition technologies, it identifies individuals in the photo and records their attendance in a CSV file. The system also provides visualizations of attendance data for easy analysis.
 
 **Note**
-- This project is currently in its initial phase and has been tested with a limited dataset. Extensive testing with larger and more diverse datasets is required to ensure robustness and reliability in real-world scenarios.
+This project is currently in its initial phase and has been tested with a limited dataset. Extensive testing with larger and more diverse datasets is required to ensure robustness and reliability in real-world scenarios.
 
 ## Features
 - Automatic face detection and recognition from group photos.
