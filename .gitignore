@@ -1,0 +1,27 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore model files or other files you don't need in the repo
+models/
+Attendance_Records/
+Data/
+
+
+# Ignore any other files/folders you don't want to push
+*.log
+*.bak
+*.swp
+
+# Ignore requirements.txt if you don't want to track it
+requirements.txt
+
+
+# Ignore model files or other files you don't need in the repo
+models/
+*.pb
+*.h5
+
