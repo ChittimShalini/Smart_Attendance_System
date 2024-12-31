@@ -14,7 +14,7 @@ This project is currently in its initial phase and has been tested with a limite
 - Visualization of attendance records using Matplotlib.
 
 ## Prerequisites
-### Ensure you have the following installed:
+#### Ensure you have the following installed:
 - Python 3.8+
 - Virtual environment (venv)
 - Required libraries (see requirements.txt)
