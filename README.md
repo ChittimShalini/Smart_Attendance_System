@@ -29,3 +29,8 @@ The Smart Attendance System is an innovative solution designed to automate atten
 - Matplotlib
 
 Install all dependencies using the **requirements.txt** file.
+
+## Acknowledgments
+- FaceNet for face embeddings.
+- MTCNN for face detection.
+- Kaggle community for inspiration.
