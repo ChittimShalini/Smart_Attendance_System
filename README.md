@@ -51,6 +51,13 @@ Install all dependencies using the **requirements.txt** file.
     
 4. Visualization:
    - Attendance data is visualized using Matplotlib for better analysis.
+  
+## Skills gained
+- Tensor Flow / Keras
+- OpenCV
+- CNN
+- Data Visualization
+- Python Programming
 
 ## Acknowledgments
 - FaceNet for face embeddings.
