@@ -41,16 +41,16 @@ Install all dependencies using the **requirements.txt** file.
 
 ## How it Works
 1. Face Detection:
-  - MTCNN is used to detect faces in the group photo.
+   - MTCNN is used to detect faces in the group photo.
     
 2. Face Recognition:
-  - FaceNet generates embeddings for faces in the group photo and individual photos. Matches embeddings to identify individuals.
+   - FaceNet generates embeddings for faces in the group photo and individual photos. Matches embeddings to identify individuals.
     
 3. Attendance Marking:
-  - Recognized individuals are logged in the attendance_records.csv file with their name, date, and time.
+   - Recognized individuals are logged in the attendance_records.csv file with their name, date, and time.
     
-4.Visualization:
-  - Attendance data is visualized using Matplotlib for better analysis.
+4. Visualization:
+   - Attendance data is visualized using Matplotlib for better analysis.
 
 ## Acknowledgments
 - FaceNet for face embeddings.
