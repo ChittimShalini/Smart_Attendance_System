@@ -16,16 +16,16 @@ The Smart Attendance System is an innovative solution designed to automate atten
 - Required libraries (see requirements.txt)
 
 ## Installation
-Step 1: Clone the Repository
-Step 2: Set Up Virtual Environment
-Step 3: Install Dependencies
+- Step 1: Clone the Repository
+- Step 2: Set Up Virtual Environment
+- Step 3: Install Dependencies
 
 ## Dependencies
-TensorFlow
-Keras
-OpenCV
-MTCNN
-Pandas
-Matplotlib
+- TensorFlow
+- Keras
+- OpenCV
+- MTCNN
+- Pandas
+- Matplotlib
 
-Install all dependencies using the requirements.txt file.
+Install all dependencies using the **requirements.txt** file.
