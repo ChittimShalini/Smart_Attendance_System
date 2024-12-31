@@ -9,20 +9,9 @@ The Smart Attendance System is an innovative solution designed to automate atten
 - Support for individual photo datasets for identification.
 - Visualization of attendance records using Matplotlib.
 
-## Project structure
-Smart_Attendance_System/
-├── Attendance_Records/
-│   └── attendance_records.csv
-├── Data/
-│   ├── group_photo.jpg
-│   ├── group_photo_result.jpg
-│   └── people/
-│       ├── person1.jpg
-│       ├── person2.jpg
-│       └── person3.jpg
-├── models/
-│   └── 20180402-114759.pb
-├── venv/
-├── Attendance_System.py
-└── requirements.txt
+## Prerequisites
+### Ensure you have the following installed:
+- Python 3.8+
+- Virtual environment (venv)
+- Required libraries (see requirements.txt)
 
