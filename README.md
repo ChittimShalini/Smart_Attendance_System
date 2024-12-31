@@ -37,7 +37,7 @@ Install all dependencies using the **requirements.txt** file.
 ## Usage
 - Step 1: Prepare Dataset
 - Step 2: Run the Program
-  python Attendance_System.py
+  - python Attendance_System.py
 - Step 3: Output
 
 ## How it Works
