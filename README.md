@@ -34,6 +34,22 @@ This project is currently in its initial phase and has been tested with a limite
 
 Install all dependencies using the **requirements.txt** file.
 
+## Usage
+- Step 1: Prepare Dataset
+- Step 2: Run the Program
+  - python Attendance_System.py
+- Output
+
+## How it Works
+1. Face Detection:
+   MTCNN is used to detect faces in the group photo.
+2. Face Recognition:
+   FaceNet generates embeddings for faces in the group photo and individual photos. Matches embeddings to identify individuals.
+3. Attendance Marking:
+   Recognized individuals are logged in the attendance_records.csv file with their name, date, and time.
+4.Visualization:
+   Attendance data is visualized using Matplotlib for better analysis.
+
 ## Acknowledgments
 - FaceNet for face embeddings.
 - MTCNN for face detection.
